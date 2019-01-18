@@ -3,11 +3,17 @@ package part_C;
 public class lengthOfString {
 
 	public lengthOfString() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		String input= "java programming";
+		int strLength= input.length();
+		System.out.println("The length of the string is:");
+		System.out.println(strLength);
+
 
 	}
 
